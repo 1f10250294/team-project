@@ -1,3 +1,19 @@
 #wa{
     text-align : center;
 }
+
+.sidebar li {
+  display: block;
+  margin: 0px 0px 5px 0px;
+  padding: 5px;
+  border-right: solid 2px #cccccc;
+  background-color: #eeeeee;
+}
+#container {
+  display: flex;
+  flex-direction: row;
+}
+.content {
+  width: 70%;
+  margin: 10px 0 10px 0;
+}
