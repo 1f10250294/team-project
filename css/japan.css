@@ -1,3 +1,13 @@
 #wa{
     text-align : center;
 }
+#menu > li {
+  display: inline-block;
+  margin: 0px 0px 5px 0px;
+  padding: 5px 5px 5px 5px;
+  min-width: 100px;
+  font-family: sans-serif;
+  font-size: 12px;
+  text-align: center;
+  background-color: #eeeeee;
+}
