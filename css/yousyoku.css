@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+body {
+  background-color: #fdfcf5;        
+  color: #000000;                   
+  font-family: "Potta One";
+  line-height: 1.6;
+  padding: 20px;
+}
+
+h1 {
+  color: #a0522d;                   
+  text-align: center;
+  border-top: 2px solid #a0522d;
+  border-bottom: 2px double #a0522d;
+  margin-bottom: 20px;
+}
+
+p {
+  margin: 10px 0 20px;
+  color: #666666;
+}
+img {
+  display: inline-block;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.05);}
