@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+
+body {
+  background-color: #fdfcf5;        /* 薄いベージュ */
+  color: #000000;                   /* ダークグレー文字 */
+  font-family: "Potta One";
+  line-height: 1.6;
+  padding: 20px;
+}
+/* ページタイトル */
+h1 {
+  font-family: Georgia, serif;
+  color: #a0522d;                   /* シエナブラウン */
+  text-align: center;
+  border-bottom: 2px solid #a0522d;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+}
+/* セクション見出し */
+h3 {
+  font-family: Arial, sans-serif;
+  color: #555555;                   /* ミディアムグレー */
+  background-color: #f5f5f5;        /* ライトグレーの吹き出し風 */
+  display: inline-block;
+  padding: 8px 12px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-top: 30px;
+}
+/* 段落テキスト */
+p {
+  margin: 10px 0 20px;
+  color: #666666;                   /* グレー */
+}
+/* 画像共通 */
+img {
+  display: inline-block;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+}
+/* マウスオーバー時に少し拡大 */
+img:hover {
+  transform: scale(1.05);}
