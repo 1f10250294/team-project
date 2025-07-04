@@ -1,8 +1,10 @@
 #wa{
     text-align : center;
+    font-style: sans-serif;
 }
 body{
-    background-color: beige;
+    background-color: #FAF3E0; 
+    color: #333333;
 }
 .sidebar li {
   display: block;
@@ -19,4 +21,7 @@ body{
 .content {
   width: 70%;
   margin: 10px 0 10px 0;
+}
+strong{
+  font-style: italic;
 }

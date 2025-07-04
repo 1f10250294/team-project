@@ -1,4 +1,6 @@
-.red{color:red;}
+body{
+  background-color: #f5f5f5;
+}
 .sidebar li {
   display: block;
   margin: 0px 0px 5px 0px;
