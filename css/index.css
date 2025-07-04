@@ -5,6 +5,7 @@
   padding: 5px;
   border-right: solid 2px #cccccc;
   background-color: #eeeeee;
+  font-size: 28px;
 }
 #container {
   display: flex;
