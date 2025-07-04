@@ -56,3 +56,6 @@ a{
 a:hover{
   color: red;
 }
+body{
+  background-color: rgba(230, 230, 230, 0.164);
+}
