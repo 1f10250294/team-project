@@ -14,3 +14,19 @@
   width: 70%;
   margin: 10px 0 10px 0;
 }
+#aaaa{
+  display: flex;
+  flex-direction: row;
+}
+.photo{
+  object-fit: contain;
+}
+#abcd{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+img {
+  width: 300px; /* 幅を300ピクセルに */
+  height: 300px; /* 高さを200ピクセルに */
+}
